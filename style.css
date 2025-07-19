@@ -1,0 +1,35 @@
+body{
+
+font-family: Helvetica;
+background-color: #E2F7BB;
+}
+
+.main-title{
+
+    text-align: center;
+    font-weight: bold;
+    display: block;
+    border-bottom: 2px solid #e3ac4d;
+    margin-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+h1{
+text-align: center;
+
+
+}
+
+.description{
+
+padding-left: 25px;
+}
+
+h2{
+margin-left: 25px;
+padding-left: 25px;
+
+
+
+}
